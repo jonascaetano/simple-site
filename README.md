@@ -2,4 +2,6 @@
 
 ## Simple-site. 
 
-https://jonascaetano.github.io/simple-site/
+
+
+Click [here](https://jonascaetano.github.io/simple-site/) to access!
