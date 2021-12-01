@@ -1,4 +1,4 @@
-# Create a simple website using HTML, CSS and JavaScript
+# Create a simple website using HTML5, CSS3 and JavaScript
 
 ## Simple-site. 
 
