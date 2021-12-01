@@ -1,6 +1,6 @@
 # Create a simple website using HTML5, CSS3 and JavaScript
 
-## Simple-site. 
+## simple-site 
 
 
 
